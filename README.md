@@ -12,9 +12,12 @@ This code defines a React functional component called CardsTab. Here's a summary
 
 3. CardsTab Component:
 Renders a layout consisting of a Header, Title, a container with multiple Card components, and a Footer.
+
 Each Card component is passed props such as title, date, author, image, profile image (img),
 the number of likes, and comments.
+
 There are 9 cards in total, each representing a different topic (like "Nature Photography", "Artificial Intelligence", etc.).
+
 4. Export: Finally, the CardsTab component is exported for use in other parts of the application.
 
 This component likely serves as a tab or section in a larger application, displaying a series of cards with different content.
