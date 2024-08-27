@@ -11,7 +11,7 @@ This code defines a React functional component called CardsTab. Here's a summary
 2. Images and Profile Logos: The component defines constants for images and profile logos, which are paths to different assets (images) used within the cards.
 
 3. CardsTab Component:
-"."Renders a layout consisting of a Header, Title, a container with multiple Card components, and a Footer.
+.Renders a layout consisting of a Header, Title, a container with multiple Card components, and a Footer.
 
 Each Card component is passed props such as title, date, author, image, profile image (img),
 the number of likes, and comments.
